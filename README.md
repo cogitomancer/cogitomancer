@@ -8,8 +8,8 @@ I build applied AI systems with a focus on:
 
 ## Current Focus
 - AI Engineer @ micro1  
-- M.S. in Computer Science (AI & ML), Stevens Institute of Technology  
-- Designing systems that help teams effectively use AI tools in real-world workflows  
+- M.S. in Computer Science (AI & ML), Stevens Institute of Technology
+- Building and evaluating applied AI systems, with a focus on making tools usable in real-world workflows
 
 ## Featured Work
 - **azure-ceo** — multi-agent marketing automation system using Azure OpenAI, RAG pipelines, and structured experimentation workflows  
