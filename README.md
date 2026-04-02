@@ -1,15 +1,14 @@
-# Hi, I’m MK
-
+Hi, I’m MK 👋  
 I build applied AI systems with a focus on:
 
 - LLM evaluation and alignment  
-- agentic workflows and retrieval-augmented generation (RAG)  
-- AI developer tooling and enablement  
+- Agentic workflows and retrieval-augmented generation (RAG)  
+- Backend and data-integrated AI systems  
 
 ## Current Focus
 - AI Engineer @ micro1  
-- M.S. in Computer Science (AI & ML), Stevens Institute of Technology
-- Building and evaluating applied AI systems, with a focus on making tools usable in real-world workflows
+- M.S. in Computer Science (AI & ML), Stevens Institute of Technology  
+- Building and evaluating AI systems that connect LLMs to real-world data and workflows  
 
 ## Featured Work
 - **azure-ceo** — multi-agent marketing automation system using Azure OpenAI, RAG pipelines, and structured experimentation workflows  
@@ -17,4 +16,4 @@ I build applied AI systems with a focus on:
 - **ExperAIment-Lab** — experimental environment for testing prompt design, disclosure effects, and LLM behavior  
 
 ## Interests
-LLM evaluation, AI systems design, developer tooling, human-AI collaboration
+LLM evaluation, AI systems design, backend/data integration, developer tooling, human-AI collaboration  
